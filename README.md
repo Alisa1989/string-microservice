@@ -21,4 +21,4 @@ An example of a request is fiven in example-request.js
 
 ##UML Diagram
 
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/8b88c5d9-1a6d-43fd-b3e4-c9767371e3d5" id="ytbPX.jcZdSa"></iframe></div>
+https://lucid.app/documents/embedded/8b88c5d9-1a6d-43fd-b3e4-c9767371e3d5
