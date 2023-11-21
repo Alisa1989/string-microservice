@@ -11,7 +11,7 @@ app.get("/", (req, res) => {
 }) 
   
 // Handling GET /hello request 
-app.get("/hello", (req, res) => { 
+app.post("/concatenate", (req, res) => { 
     const {strings} = req.body
     let i = 0;
     let return_string = "";
