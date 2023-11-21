@@ -16,7 +16,7 @@ A response to the given JSON example would look like this:
 	"new_string": "abcdefghijklmnopqrstuvwxyz"
 }
 
-An example of a request is fiven in example-request.js
+An example of a request is fiven in [example-request.js](./example-request.js) 
 
 
 ##UML Diagram
